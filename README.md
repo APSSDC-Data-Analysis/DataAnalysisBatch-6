@@ -1,5 +1,5 @@
 # DataAnalysisBatch-6
-### All the Data Analysis Jupyter Notebooks ,Recorded Sessions link is available here
+### All the Data Analysis Jupyter Notebooks ,Recorded Sessions link is available [here](https://drive.google.com/folderview?id=1nL7-AJhWlFW06BQyk6sNRjf5z4lCaK_0)
 #### [09-10-2020 recorded session]()
 #### [08-10-2020 Recoreded session](https://transcripts.gotomeeting.com/#/s/c717be04c5c1795b4429b52bd7b6e27024e06364bd1d70c86028031f2e97e71e)
 #### [07-10-2020 recorded session](https://transcripts.gotomeeting.com/#/s/e7625d3032400de9558f036ab73c7bc4e31abfbd809a5a1f9374f5bb0d7afa55)
